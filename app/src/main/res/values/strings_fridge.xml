@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_add_new">Dodaj</string>
+    <string name="action_clear_fridge">Wyczyść lodówkę</string>
+    <string name="title_activity_new_product">Nowy produkt</string>
+    <string name="delete_product">Czy na pewno chcesz usunąć ten produkt?</string>
+    <string name="list_ok">Lista otrzymana</string>
+    <string name="list_bad">Błąd przy pobieraniu listy</string>
+    <string name="save_ok">Zapisano</string>
+    <string name="save_bad">Błąd przy próbie zapisu</string>
+    <string name="save">Zapisz</string>
+    <string name="name">Nazwa</string>
+    <string name="volume">Ilość</string>
+    <string name="expiry_date">Data ważności</string>
+</resources>

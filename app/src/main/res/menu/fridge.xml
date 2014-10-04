@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/add_new_product"
+        android:title="@string/action_add_new"
+        android:showAsAction="withText|ifRoom" />
+    <item android:id="@+id/clear_fridge"
+        android:title="@string/action_clear_fridge"
+        android:showAsAction="withText" />
+</menu>
+

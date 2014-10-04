@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sloiki</string>
+    <string name="title_activity_main">Słoiki</string>
+    <string name="title_section1">Lodówka</string>
+    <string name="title_section2">Kalendarz</string>
+    <string name="title_section3">Raporty</string>
+    <string name="title_section4">Wyloguj</string>
+    <string name="navigation_drawer_open">Otwórz nawigację</string>
+    <string name="navigation_drawer_close">Zamknij nawigację</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="no_data">Brak danych</string>
+    <string name="yes">Tak</string>
+    <string name="no">No</string>
+</resources>

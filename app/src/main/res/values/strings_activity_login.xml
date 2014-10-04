@@ -1,0 +1,11 @@
+<resources>
+    
+    <!-- Strings related to login -->
+    <string name="prompt_user">Użytkownik</string>
+    <string name="prompt_password">Hasło</string>
+    <string name="action_sign_in">Zaloguj</string>
+
+    <string name="error_invalid_password">Hasło jest za krótkie</string>
+    <string name="error_incorrect_password">Nieprawidłowe hasło lub użytkownik</string>
+    <string name="error_field_required">To pole jest wymagane</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url_base">http://15.126.222.119:8090/sloiki/rest/</string>
+    <string name="url_login">auth/login</string>
+    <string name="url_fridge">fridge</string>
+    <string name="url_fridge_products">fridge/products</string>
+    <string name="url_fridge_products_available">fridge/products/available</string>
+    <string name="url_calendar_products">fridge/calendar/products</string>
+    <string name="url_report_categories">report/categories</string>
+</resources>
